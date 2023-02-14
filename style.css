@@ -1,12 +1,12 @@
 p{
     font-size: small;
 }
-/* Header CSS */
+/* FIRST SECTION */
 .icon_logo img{
     width: 30%;
     height: 65%;
 }
-.container{
+.main_img{
     position: relative;
     text-align: center;
 }
@@ -15,7 +15,7 @@ p{
     height: 90%;
     margin-left: 60px;
     margin-right: 60px;
-    border-radius: 0px 0px 50px 50px;
+    border-radius: 0px 0px 60px 60px;
 }
 .icon_logo{
     position: absolute;
@@ -52,7 +52,7 @@ section{
     margin-top: 5%;
 }
 .left-quote{
-    color: gray;
+    color: rgb(121, 119, 119);
 }
 .about_us img{
     width: 50%;
@@ -85,12 +85,12 @@ section{
     margin: 20px;
 }
 
-/* Footer CSS */
+/* Footer  */
 .social_icons{
     width: 5%;
     margin: 2%;
 }
-/* Services CSS */
+/* Services  */
 .services{
     padding:0 10% 0 10%;
 }
